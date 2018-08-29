@@ -1,0 +1,15 @@
+io\pivotal\geode\size\function\IndexSizeCalculatorResultCollector.class
+io\pivotal\geode\size\function\RegionEntrySizeCalculatorFunction.class
+io\pivotal\geode\size\function\RegionSizes.class
+io\pivotal\geode\size\function\ObjectSizer$1.class
+io\pivotal\geode\size\function\RegionObjectFilter.class
+io\pivotal\geode\size\function\RegionSizeCalculatorFunction.class
+io\pivotal\geode\size\function\IndexSizeCalculatorFunction.class
+io\pivotal\geode\size\function\RegionEntryObjectFilter.class
+io\pivotal\geode\size\function\IndexSizes.class
+io\pivotal\geode\size\function\RegionEntrySizeCalculatorResultCollector.class
+io\pivotal\geode\size\function\IndexObjectFilter.class
+io\pivotal\geode\size\function\ObjectSizer.class
+io\pivotal\geode\size\function\RegionEntrySizes.class
+io\pivotal\geode\size\function\RegionSizeCalculatorResultCollector.class
+io\pivotal\geode\size\function\RegionEntrySize.class
